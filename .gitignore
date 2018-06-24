@@ -2,3 +2,5 @@ notMNIST*
 *pyc
 *pickle
 *.idea
+*.gz
+Experiments/Tensorflow/GAN/apple/*
